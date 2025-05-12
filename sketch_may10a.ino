@@ -1,8 +1,8 @@
 #include <ESP8266WiFi.h>
 #include <ESP8266WebServer.h>
 
-const char* ssid = "DELL 6766";
-const char* password = "kaur2004";
+const char* ssid = "Enter Your SSID";
+const char* password = "Enter Your Password";
 
 // Correct static IP configuration
 IPAddress local_IP(192, 168, 137, 100);

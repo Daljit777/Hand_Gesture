@@ -59,7 +59,7 @@ NODEMCU_IP = "http://192.168.xxx.xxx"  # Replace with your IP
 
 ## Demo
 > In the video, you'll see how I use my hand:
-▶️ [Watch Demo Video]
+▶️ [Watch Demo Video] <br>
 https://youtu.be/pHN0Y94csPE?si=bEOZh8s0axcghbNp
 
 * **Showing my thumb** = Turning OFF the appliance
